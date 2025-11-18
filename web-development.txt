@@ -19,3 +19,4 @@ A database is an organized collection of data that can be easily stored, accesse
 
 Conclusion:
 Web development is an important skill that allows us to create websites and applications for people to use easily. It combines creativity and technical knowledge to build functional and attractive digital experiences. As technology grows, learning web development opens up many opportunities to innovate and work in the digital world.
+..
