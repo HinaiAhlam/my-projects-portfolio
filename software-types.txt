@@ -5,4 +5,17 @@ software type :
 4- web software
 5- mobile apps
 
- 
+
+
+Web Software
+
+Software that works on the internet.
+
+Example: Gmail, Google Docs, Facebook
+
+
+Mobile Apps
+
+Software made for mobile phones.
+
+Example: Instagram, TikTok, Uber 
