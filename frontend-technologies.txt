@@ -1,0 +1,14 @@
+Frontend (Client-side)
+
+This is what the user interacts with — the UI/UX part of the application.
+
+Common Frontend Technologies:
+
+Languages: HTML, CSS, JavaScript, TypeScript
+
+Frameworks/Libraries: React, Angular, Vue.js, Svelte
+
+Tools: Webpack, Babel, npm/yarn
+
+Mobile: React Native, Flutter, Swift (iOS), Kotlin (Android)
+

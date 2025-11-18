@@ -1,0 +1,15 @@
+Backend (Server-side)
+
+This is where the business logic, data processing, and database management happen.
+
+Common Backend Technologies:
+
+Languages: Python, Java, JavaScript (Node.js), Ruby, PHP, Go, C#
+
+Frameworks: Express.js (Node), Django (Python), Spring Boot (Java), Ruby on Rails (Ruby), Laravel (PHP)
+
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+
+Server & Hosting: Apache, Nginx, AWS, Azure, Google Cloud
+
+APIs & Protocols: REST, GraphQL, gRPC
