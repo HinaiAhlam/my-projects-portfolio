@@ -1,0 +1,1 @@
+Git is a version-control system used to track changes in code and collaborate with others. Common commands include git init to create a repository, git add and git commit to save changes, and git push/git pull to sync with remote servers. Branching with git branch and git checkout allows parallel development. Git helps maintain clean, organized project history.
