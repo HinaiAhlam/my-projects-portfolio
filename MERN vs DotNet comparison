@@ -1,0 +1,9 @@
+| Feature            | MERN                                     | .NET                                                  |
+| ------------------ | ---------------------------------------- | ----------------------------------------------------- |
+| **Language**       | JavaScript (full-stack)                  | C# (main)                                             |
+| **Primary Use**    | Web apps, SPAs, startups, real-time apps | Enterprise apps, banking, healthcare, large systems   |
+| **Database**       | MongoDB (NoSQL)                          | SQL Server, PostgreSQL, MySQL                         |
+| **Performance**    | Great for I/O-heavy apps, scalable       | Excellent for CPU-intensive, enterprise-scale apps    |
+| **Learning Curve** | Easy if familiar with JS                 | Steeper, requires knowledge of C# and Microsoft tools |
+| **Cost**           | Mostly free, open-source                 | Free with .NET Core, enterprise tools may incur cost  |
+| **Community**      | Large open-source community              | Strong enterprise & Microsoft support                 |
