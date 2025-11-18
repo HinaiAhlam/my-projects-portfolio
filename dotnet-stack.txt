@@ -1,0 +1,9 @@
+The .NET stack (or .NET technology stack) is a collection of Microsoft technologies used to build software applications. Think of it like a toolbox — everything you need to build an app is in there. It’s often used to build web apps, desktop apps, and mobile apps.
+
+A “stack” usually has three layers:
+
+Frontend (what users see)
+
+Backend (the brain of the app)
+
+Database (where data is stored)

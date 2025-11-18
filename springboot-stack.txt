@@ -1,0 +1,9 @@
+Spring Boot Stack = Technologies used together to build a web app using Spring Boot as the backend.
+
+Components:
+
+Frontend: HTML/CSS/JS, React, Angular → what users see and interact with.
+
+Backend: Spring Boot → handles requests, applies business logic, talks to the database.
+
+Database: MySQL, PostgreSQL, MongoDB → stores app data.

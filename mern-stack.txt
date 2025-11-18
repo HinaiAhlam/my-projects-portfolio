@@ -1,0 +1,21 @@
+
+The MERN stack is a popular full-stack JavaScript framework used for building modern web applications. “MERN” stands for MongoDB, Express.js, React.js, and Node.js—each representing a layer of the stack. Let’s break it down component by component.
+Think of it like a restaurant system:
+
+Frontend (React) – The menu and dining area
+
+What the customer sees and interacts with (buttons, forms, pages).
+
+Built using React.js.
+
+Backend (Node + Express) – The kitchen and staff
+
+Handles orders from the customer, cooks the food, and sends it back.
+
+Built using Node.js (server) + Express.js (makes handling orders easy).
+
+Database (MongoDB) – The pantry/storage
+
+Stores all the ingredients (data like user info, posts, products).
+
+Built using MongoDB (flexible and stores data in JSON-like format).
