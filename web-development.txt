@@ -3,3 +3,6 @@ web-development
 
 Introduction
 Web development is the process of building and maintaining websites and web applications that are accessible through the internet or a private network. It combines creative design, technical programming, and strategic planning to create digital experiences that are functional, user-friendly, and visually appealing. As businesses, governments, and individuals increasingly rely on online platforms, web development has become an essential skill and a rapidly evolving field.
+
+Front-End Development
+This focuses on the parts of a website that users interact with directly. Using technologies like HTML, CSS, and JavaScript, front-end developers build layouts, design interfaces, and ensure responsive behavior across devices.
