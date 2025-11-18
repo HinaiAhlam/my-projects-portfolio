@@ -6,3 +6,8 @@ Web development is the process of building and maintaining websites and web appl
 
 Front-End Development
 This focuses on the parts of a website that users interact with directly. Using technologies like HTML, CSS, and JavaScript, front-end developers build layouts, design interfaces, and ensure responsive behavior across devices.
+
+
+
+Back-End Development
+The back end is responsible for the server, database, and application logic. Developers use languages such as Python, PHP, Java, or Node.js to manage data, authentication, and overall functionality behind the scenes.
